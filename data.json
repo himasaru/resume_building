@@ -1,0 +1,48 @@
+{
+	"basicdetails":{
+		"image":"Tulips.jpg",
+		"name":"ch.bindu",
+		"email":"chevulabindu12@gmail.com",
+		"phone":"9505157285",
+		"address":"hanumaiah nagar 3rd line,18-11-712/1,guntur"
+	},
+	"education":[
+		{
+			"course":"B.tech(c.s.e)",
+			"college":"vignan nirula institute of technology",
+			"percentage":"75%"
+		},
+		{
+			"course":"intermediate(m.p.c)",
+			"college":"sri chaitanya junior college",
+			"percentage":"87%"
+		},
+		{
+			"course":"ssc",
+			"college":"sai aditya school",
+			"percentage":"92%"
+		}
+	],
+"skills":[
+	{
+		"name":"operating systems",
+		"value":"Windows,Linux,MAC"
+	},
+	{
+		"name":"Programming Languages",
+		"value":"C,C++,Java,Python"
+	}
+],
+"carrier":{
+	"ca":"I am using my knowledge for developing my organisation and I obey the organisation rules and take my responsibility end of my working days"
+},
+"achievements":[
+	"I got first prize in basketball competition",
+	"I got second prize in quizz competition",
+	"I got third prize in chess competition",
+	"I got third prize in baseball competition"
+],
+"Description":{
+	"des":"I am using my skills for developing web applications"
+}
+}
